@@ -1,0 +1,48 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Anthropic Claude
+langchain-anthropic
+anthropic
+
+# HuggingFace Models
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+torch
+
+# Vector Database
+faiss-cpu
+chromadb
+
+# Document Processing
+pypdf
+python-docx
+python-pptx
+
+# Data Processing
+numpy
+pandas
+scikit-learn
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# Environment
+python-dotenv
+
+#Langchain ChatModels
+langchain
+langchain-core
+langchain-anthropic
+anthropic
+python-dotenv
