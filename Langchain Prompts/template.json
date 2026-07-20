@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nYou are an AI research assistant.\n\nSummarize the following research paper:\n\nPaper: {paper}\n\nSummary length:\n{length}\n\nSummary style:\n{style}\n\nInclude:\n- Research problem\n- Methodology\n- Key contributions\n- Results\n- Impact\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
