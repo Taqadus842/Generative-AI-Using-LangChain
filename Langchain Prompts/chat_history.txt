@@ -1,0 +1,52 @@
+# LangChain Prompt Learning
+
+This repository contains my practice work while learning **LangChain Prompt Engineering**.
+
+## Topics Learned
+
+- Chat Prompt Template
+- Prompt Template
+- Chat History
+- Messages
+- Messages Placeholder
+- Prompt Generator
+- Prompt UI
+- Chatbot Message Handling
+
+
+## Description
+
+### Chat History
+Learned how to store previous conversations and use them to maintain context in chatbots.
+
+### Chat Prompt Template
+Learned how to create structured prompts using system and human messages.
+
+### Messages Placeholder
+Used `MessagesPlaceholder` to add dynamic chat history into prompts.
+
+### Messages
+Learned about different message types:
+- System Message
+- Human Message
+- AI Message
+
+### Prompt Template
+Created reusable prompts with dynamic variables.
+
+### Prompt Generator
+Learned how to generate prompts dynamically for LLM applications.
+
+### Prompt UI
+Created a simple interface to test prompts and chatbot interactions.
+
+## Technologies
+
+- Python
+- LangChain
+- Prompt Engineering
+- Streamlit
+
+## Author
+
+Ume Taqadus
