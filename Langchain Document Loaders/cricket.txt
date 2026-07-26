@@ -1,0 +1,42 @@
+Cricket
+========
+
+Cricket is a popular bat-and-ball sport played between two teams of eleven players each. It is one of the most watched sports in the world, especially in countries such as Pakistan, India, Australia, England, South Africa, New Zealand, Sri Lanka, Bangladesh, and the West Indies.
+
+Objective:
+The main objective of the game is to score more runs than the opposing team.
+
+Basic Rules:
+- Each team has 11 players.
+- One team bats while the other bowls and fields.
+- A match is divided into innings.
+- The batting team scores runs by hitting the ball and running between the wickets or by hitting boundaries.
+- The bowling team tries to dismiss the batters and limit the number of runs scored.
+
+Ways to Score Runs:
+- Running between the wickets.
+- Hitting the ball to the boundary for four runs.
+- Hitting the ball over the boundary without bouncing for six runs.
+
+Ways a Batter Can Get Out:
+- Bowled
+- Caught
+- Leg Before Wicket (LBW)
+- Run Out
+- Stumped
+- Hit Wicket
+
+Formats of Cricket:
+1. Test Cricket – Played over up to five days.
+2. One Day International (ODI) – 50 overs per team.
+3. Twenty20 (T20) – 20 overs per team.
+
+Famous Cricket Tournaments:
+- ICC Cricket World Cup
+- ICC T20 World Cup
+- ICC Champions Trophy
+- Indian Premier League (IPL)
+- Pakistan Super League (PSL)
+
+Conclusion:
+Cricket is a game that combines skill, teamwork, strategy, and sportsmanship. It continues to grow in popularity and inspires millions of fans around the world.
